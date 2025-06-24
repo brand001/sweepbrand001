@@ -1,0 +1,6 @@
+# Sweep AI Configuration
+gha_enabled: true
+branch: 'main'
+blocked_dirs: []
+draft: false
+description: 'Sweep AI configuration for sweepbrand001 project'
