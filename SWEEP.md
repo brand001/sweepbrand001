@@ -18,6 +18,8 @@
 - Issues created with proper "Sweep:" format
 - ✅ SOLVED: Found the issue - sweepai/sweep@v1.1.6 version doesn't exist
 - Fixed by changing to sweepai/sweep@main
+- ⚠️ MORE VERSION ISSUES: v1.1.5, v1.0.0 also don't exist
+- FINAL FIX: Using sweepai/sweep@latest for most stable available version
 
 ### Next Steps to Try:
 1. Check if Sweep AI service is operational
