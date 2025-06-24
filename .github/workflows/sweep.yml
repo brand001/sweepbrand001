@@ -9,6 +9,7 @@ jobs:
   sweep:
     runs-on: ubuntu-latest
     name: Sweep
+    timeout-minutes: 10
     permissions:
       issues: write
       pull-requests: write
@@ -16,6 +17,7 @@ jobs:
       actions: read
     steps:
     - name: 🧹 Sweep
-      uses: sweepai/sweep@main
+      uses: sweepai/sweep@v1.0.0
+      timeout-minutes: 8
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
