@@ -1,0 +1,13 @@
+{
+  "name": "sweepbrand001",
+  "version": "1.0.0",
+  "description": "Test project for Sweep AI integration",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "python -m http.server 8000 --directory public",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": ["sweep", "ai", "test"],
+  "author": "brand001",
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+name: Sweep
+
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+  pull_request:
+    types: [opened, edited, synchronize]
+
+jobs:
+  sweep:
+    name: Sweep
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sweep
+        uses: sweepai/sweep@v1.1.6
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          sweep-token: ${{ secrets.SWEEP_TOKEN }}
