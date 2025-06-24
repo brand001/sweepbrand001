@@ -3,6 +3,18 @@
   <component name="GhostTextManager">
     <option name="inputs">
       <map>
+        <entry key="1，2，3，4我都检查了，设置没问题">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1750745239463" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
         <entry key="https://github.com/brand001/sweepbrand001/issues/5&#10;你看看这歌项目，我在github无法使用sweep ai，创建的issues没有反应">
           <value>
             <GhostTextMetaData>
@@ -10,6 +22,18 @@
               <option name="timestamps">
                 <list>
                   <option value="1750744065681" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="https://github.com/brand001/sweepbrand001/issues/8&#10;&#10;你看看这个issues，按照你做的，还是不从">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1750745052704" />
                 </list>
               </option>
             </GhostTextMetaData>
@@ -58,6 +82,18 @@
               <option name="timestamps">
                 <list>
                   <option value="1750744961530" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="你为什么无法上传图片，我需要给你截图">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1750745212726" />
                 </list>
               </option>
             </GhostTextMetaData>

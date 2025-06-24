@@ -12,8 +12,12 @@ jobs:
   sweep:
     name: Sweep
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+      contents: write
     steps:
       - name: Sweep
-        uses: sweepai/sweep@v1.1.6
+        uses: sweepai/sweep@main
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}

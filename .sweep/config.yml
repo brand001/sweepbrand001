@@ -1,18 +1,3 @@
-# Sweep AI Configuration
 gha_enabled: true
 branch: 'main'
-blocked_dirs: []
 draft: false
-description: 'Sweep AI configuration for sweepbrand001 project'
-
-# Rules for Sweep AI
-rules:
-  - "Follow standard HTML/CSS/JavaScript best practices"
-  - "Add comments to explain complex logic"
-  - "Use semantic HTML elements"
-  - "Ensure responsive design"
-
-# Sandbox configuration
-sandbox:
-  install: "npm install"
-  check: "echo 'Project structure verified'"
