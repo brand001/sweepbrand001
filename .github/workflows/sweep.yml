@@ -1,0 +1,23 @@
+name: Sweep
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    name: Sweep
+    timeout-minutes: 10
+    permissions:
+      issues: write
+      pull-requests: write
+      contents: write
+      actions: read
+    steps:
+    - name: 🧹 Sweep
+      uses: sweepai/sweep@main
+      timeout-minutes: 8
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}

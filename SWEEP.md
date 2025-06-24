@@ -20,6 +20,8 @@
 - Fixed by changing to sweepai/sweep@main
 - ⚠️ MORE VERSION ISSUES: v1.1.5, v1.0.0 also don't exist
 - FINAL FIX: Using sweepai/sweep@latest for most stable available version
+- ⚠️ EVEN @latest DOESN'T EXIST: sweepai/sweep@latest also fails
+- ULTIMATE FIX: Back to sweepai/sweep@main (the default branch)
 
 ### Next Steps to Try:
 1. Check if Sweep AI service is operational
