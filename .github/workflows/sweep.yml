@@ -17,4 +17,3 @@ jobs:
         uses: sweepai/sweep@v1.1.6
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          sweep-token: ${{ secrets.SWEEP_TOKEN }}

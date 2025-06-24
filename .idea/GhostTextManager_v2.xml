@@ -15,6 +15,66 @@
             </GhostTextMetaData>
           </value>
         </entry>
+        <entry key="https://sweep.dev&#10;这个url打开，没看到登录按钮">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1750744766286" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="repo-token: ${{ secrets.GITHUB_TOKEN }}&#10;          sweep-token: ${{ secrets.SWEEP_TOKEN }}&#10;这边有两个token，分别是什么">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1750744705053" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="repo-token: ${{ secrets.GITHUB_TOKEN }}&#10;这个token还需要吗">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1750744919507" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="secrets.GITHUB_TOKEN 我要写死吗，还是就这样">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1750744961530" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="怎么获取SWEEP_TOKEN">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1750744646193" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
         <entry key="按照你的要求做了，创建的issues还是没有反应&#10;https://github.com/brand001/sweepbrand001/issues/6">
           <value>
             <GhostTextMetaData>
